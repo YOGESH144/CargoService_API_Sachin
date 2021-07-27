@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargoService_API_Sachin", "CargoService_API_Sachin\CargoService_API_Sachin.csproj", "{DA53591D-CD70-4D5D-A547-0B5C233633A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA53591D-CD70-4D5D-A547-0B5C233633A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA53591D-CD70-4D5D-A547-0B5C233633A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA53591D-CD70-4D5D-A547-0B5C233633A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA53591D-CD70-4D5D-A547-0B5C233633A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2D44CC1-0314-41F7-B430-2157CBD5F7A8}
+	EndGlobalSection
+EndGlobal
