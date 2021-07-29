@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using CargoService_API_Sachin.Models;
+using CargoService_API_Yogesh.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace CargoService_API_Sachin.Data
+namespace CargoService_API_Yogesh.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {

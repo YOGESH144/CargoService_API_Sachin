@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CargoService_API_Sachin.Models
+namespace CargoService_API_Yogesh.Models
 {
     public class Driver
     {

@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace CargoService_API_Sachin.Data.Migrations
+namespace CargoService_API_Yogesh.Data.Migrations
 {
     public partial class init : Migration
     {

@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace CargoService_API_Sachin
+namespace CargoService_API_Yogesh
 {
     public class Program
     {

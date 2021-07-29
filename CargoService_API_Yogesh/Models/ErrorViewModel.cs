@@ -1,6 +1,6 @@
 using System;
 
-namespace CargoService_API_Sachin.Models
+namespace CargoService_API_Yogesh.Models
 {
     public class ErrorViewModel
     {

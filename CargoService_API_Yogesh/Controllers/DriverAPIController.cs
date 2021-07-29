@@ -5,10 +5,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using CargoService_API_Sachin.Data;
-using CargoService_API_Sachin.Models;
+using CargoService_API_Yogesh.Data;
+using CargoService_API_Yogesh.Models;
 
-namespace CargoService_API_Sachin.Controllers
+namespace CargoService_API_Yogesh.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

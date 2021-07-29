@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using CargoService_API_Sachin.Models;
+using CargoService_API_Yogesh.Models;
 
-namespace CargoService_API_Sachin.Controllers
+namespace CargoService_API_Yogesh.Controllers
 {
     public class HomeController : Controller
     {
